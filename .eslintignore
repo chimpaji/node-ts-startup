@@ -1,0 +1,5 @@
+node_modulesdist
+coverage
+.env
+tsconfig.json
+**/*.json
